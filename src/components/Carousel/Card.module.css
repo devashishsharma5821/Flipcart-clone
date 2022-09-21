@@ -1,0 +1,53 @@
+.mainsubContaineritem2{
+    width: 195px;
+    height: 249px;
+    padding: 25px 15px;
+}
+
+.maincontaineritem2img{
+    width: 150px;
+    height: 130px;
+    margin-left: 14px;
+    text-align: center;
+}
+
+.maincontaineritem2img img{
+    max-width: 150px;
+    height: 130px;
+}
+
+.maincontaineritem2h1{
+    font-size: 14px;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.maincontaineritem2h2{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #388e3c;
+    font-size: 14px;
+    font-family: Arial,sans-serif;
+    text-align: center;
+    cursor: pointer;
+}
+
+.maincontaineritem2h3{
+    opacity: .6;
+    padding-top: 7px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+    color: #7a7a7a;
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.contain button{
+    width: 60px;
+}
+.contain button span{
+    background-color: black;
+    height: 108px;
+    border-radius: 4px;
+    width: 4rem;
+}
+
+
+
+

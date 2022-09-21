@@ -1,0 +1,715 @@
+[
+    {
+        "id" : "1",
+        "head" : "Bags,Jeans,Watches and More...",
+        "img" : "/Images/topoffers/image1.webp",
+        "Brand" : "Wrangler",
+        "price" : "₹449+Extra 10%Off",
+        "title" : "Jeans",
+        "category" : "topoffers",
+        "amount" : "449"
+    },
+    {
+        "id" : "2",
+        "img" : "/Images/topoffers/image2.webp",
+        "Brand" : "Levi's",
+        "price" : "from ₹199",
+        "title" : "Men & Women",
+        "category" : "topoffers",
+        "amount" : "199"
+    },
+    {
+        "id" : "3",
+        "img" : "/Images/topoffers/image3.webp",
+        "Brand" : "Casio",
+        "price" : "Min 50% Off",
+        "title" : "Men & Women watches",
+        "category" : "topoffers",
+        "amount" : "449"
+    },
+    { 
+        "id" : "4",
+        "img" : "/Images/topoffers/image4.webp",
+        "Brand" : "Fasttrack",
+        "price" : "Upto 70% off",
+        "title" : "Backpacks",
+        "category" : "topoffers",
+        "amount" : "749"
+    },
+    {
+        "id" : "5",
+        "img" : "/Images/topoffers/image5.webp",
+        "Brand" : "fasttrack",
+        "price" : "₹129",
+        "title" : "Men & Women Sunglasses",
+        "category" : "topoffers",
+        "amount" : "129"
+    },
+    {
+        "id" : "6",
+        "img" : "/Images/topoffers/image6.webp",
+        "Brand" : "Roadster",
+        "price" : "₹149+Extra 10% Off",
+        "title" : "Men T-Shirts",
+        "category" : "topoffers",
+        "amount" : "149"
+    },
+    {
+        "id" : "7",
+        "img" : "/Images/topoffers/image7.webp",
+        "Brand" : "Dianna Korr",
+        "price" : "under ₹999",
+        "title" : "Slingbags",
+        "category" : "topoffers",
+        "amount" : "899"
+    },
+    {
+        "id" : "8",
+        "img" : "/Images/topoffers/image8.webp",
+        "Brand" : "U.S.P.A",
+        "price" : "under ₹999",
+        "title" : "Premium brands On Sale",
+        "category" : "topoffers",
+        "amount" : "649"
+    },
+    {
+        "id" : "9",
+        "head" : "Drinks,Snakes and Perfumes",
+        "img" : "/Images/grocery/image1.webp",
+        "Brand" : "Sunfeast Dark Fantasy",
+        "price" : "₹100",
+        "title" : "Yumfills Cake Cookie Cake",
+        "category" : "grocery",
+        "amount" : "100"
+    },
+    {
+        "id" : "10",
+        "img" : "/Images/grocery/image2.webp",
+        "Brand" : "Colgate Gentle",
+        "price" : "₹99",
+        "title" : " Ultra Soft Ultra Soft Toothbrush",
+        "category" : "grocery",
+        "amount" : "99"
+    },
+    {
+        "id" : "11",
+        "img" : "/Images/grocery/image3.webp",
+        "Brand" : "sprite",
+        "price" : "₹31",
+        "title" : "PET Bottle  (750 ml)",
+        "category" : "grocery",
+        "amount" : "31"
+    },
+    {
+        "id" : "12",
+        "img" : "/Images/grocery/image4.webp",
+        "Brand" : "Farmley Popular",
+        "price" : "₹20+20% off",
+        "title" : " California Almonds  (1 kg)",
+        "category" : "grocery",
+        "amount" : "20"
+    },
+    {
+        "id" : "13",
+        "img" : "/Images/grocery/image5.webp",
+        "Brand" : "ORION Choco Pie",
+        "price" : "₹200",
+        "title" : "Chocolate Coated Soft Biscuit Cream Filled",
+        "category" : "grocery",
+        "amount" : "200"
+    },
+    {
+        "id" : "14",
+        "img" : "/Images/grocery/image6.webp",
+        "Brand" : "Real",
+        "price" : "₹57",
+        "title" : "Masala Guava(1 L)",
+        "category" : "grocery",
+        "amount" : "57"
+    },
+    {
+        "id" : "15",
+        "img" : "/Images/grocery/image7.webp",
+        "Brand" : "Del Monte Tomato",
+        "price" : "under ₹80",
+        "title" : "Classic Blend Ketchup  (800 g)",
+        "category" : "grocery",
+        "amount" : "80"
+    },
+    {
+        "id" : "16",
+        "img" : "/Images/grocery/image8.webp",
+        "Brand" : "Too Yumm!",
+        "price" : "₹110",
+        "title" : "Potato Stix Aloo Chat Chips  (70 g)",
+        "category" : "grocery",
+        "amount" : "110"
+    },
+    {
+        "id" : "17",
+        "img" : "/Images/grocery/image9.webp",
+        "Brand" : "Dabur",
+        "price" : "₹200",
+        "title" : "Red Toothpaste(700 g)",
+        "category" : "grocery",
+        "amount" : "200"
+    },
+    {
+        "id" : "18",
+        "img" : "/Images/grocery/image10.webp",
+        "Brand" : "Hershey's Syrup",
+        "price" : "under ₹150",
+        "title" : "genuine Chocalate Flavour",
+        "category" : "grocery",
+        "amount" : "150"
+    },
+    {
+        "id" : "19",
+        "img" : "/Images/grocery/image11.webp",
+        "Brand" : "Adrenex Dzire",
+        "price" : "₹250",
+        "title" : "Perfume Body Spray - For Men",
+        "category" : "grocery",
+        "amount" : "250"
+    },
+    {
+        "id" : "20",
+        "img" : "/Images/grocery/image12.webp",
+        "Brand" : "Bikano",
+        "price" : "₹170",
+        "title" : "Navratan Mixture(1 kg)",
+        "category" : "grocery",
+        "amount" : "170"
+    },
+    {
+        "id" : "21",
+        "img" : "/Images/grocery/image13.webp",
+        "Brand" : "Sunfeast Dark Fantasy",
+        "price" : "₹130",
+        "title" : "Choco Fills Cream Filled(300 g)",
+        "category" : "grocery",
+        "amount" : "130"
+    },
+    {
+        "id" : "22",
+        "head" : "Brand New Mobiles",
+        "img" : "/Images/mobiles/image1.webp",
+        "Brand" : "Realme9",
+        "price" : "₹14,499",
+        "title" : "realme9 (Stargaze White, 128GB",
+        "category" : "mobiles",
+        "amount" : "14499"
+    },
+    {
+        "id" : "23",
+        "img" : "/Images/mobiles/image2.webp",
+        "Brand" : "Poco M4 5G",
+        "price" : "₹12,999",
+        "title" : "Poco M4(cool Blue,64GB",
+        "category" : "mobiles",
+        "amount" : "12999"
+    },
+    {
+        "id" : "24",
+        "img" : "/Images/mobiles/image3.webp",
+        "Brand" : "OPPO F19 Pro+5G",
+        "price" : "17,990",
+        "title" : "Pro+ 5G(Space Silver, 128GB)",
+        "category" : "mobiles",
+        "amount" : "17990"
+    },
+    {
+        "id" : "25",
+        "img" : "/Images/mobiles/image4.webp",
+        "Brand" : "realme 9 Pro 5G",
+        "price" : "₹16999",
+        "title" : "realme 9 (Midnight Black,128 GB)",
+        "category" : "mobiles",
+        "amount" : "16999"
+    },
+    {
+        "id" : "26",
+        "img" : "/Images/mobiles/image5.webp",
+        "Brand" : "OPPO Reno8 5G",
+        "price" : "₹29,999",
+        "title" : "OPPO(Shimmer Gold,128 GB",
+        "category" : "mobiles",
+        "amount" : "29999"
+    },
+    {
+        "id" : "27",
+        "img" : "/Images/mobiles/image6.webp",
+        "Brand" : "realme Narzo",
+        "price" : "₹14999+Extra 10% Off",
+        "title" : "30 PRO 5G(Blade Silver)",
+        "category" : "mobiles",
+        "amount" : "14999"
+    },
+    {
+        "id" : "28",
+        "img" : "/Images/mobiles/image7.webp",
+        "Brand" : "POCO F4 5G",
+        "price" : "under ₹27,999",
+        "title" : "POCO F4(Nebula Green,128 GB)",
+        "category" : "mobiles",
+        "amount" : "27999"
+    },
+    {
+        "id" : "29",
+        "img" : "/Images/mobiles/image8.webp",
+        "Brand" : "Infinix HOT  12 Play",
+        "price" : "₹8,199",
+        "title" : "Premium brands(Horizon Blue)",
+        "category" : "mobiles",
+        "amount" : "8199"
+    },
+    {
+        "id" : "30",
+        "img" : "/Images/mobiles/image9.webp",
+        "Brand" : "APPLE iPhone 13",
+        "price" : "₹69,900",
+        "title" : "APPLE iPhone13(Starlight 128 GB)",
+        "category" : "mobiles",
+        "amount" : "69900"
+    },
+    {
+        "id" : "31",
+        "img" : "/Images/mobiles/image10.webp",
+        "Brand" : "APPLE iPhone 13",
+        "price" : "₹70,199",
+        "title" : "APPLE iPhone13(Midnight 128 GB)",
+        "category" : "mobiles",
+        "amount" : "70199"
+    },
+    {
+        "id" : "32",
+        "img" : "/Images/mobiles/image11.webp",
+        "Brand" : "APPLE iPhone 13",
+        "price" : "₹80,199",
+        "title" : "APPLE iPhone13(Green 128 GB)",
+        "category" : "mobiles",
+        "amount" : "80199"
+    },
+    {
+        "id" : "33",
+        "head" : "Fashionable Products",
+        "img" : "/Images/fashion/image1.webp",
+        "Brand" : "HIGHLANDER",
+        "price" : "₹381",
+        "title" : "Men Slim Fit Collar Shirt",
+        "category" : "fashion",
+        "amount" : "381"
+    },{
+        "id" : "34",
+        "img" : "/Images/fashion/image2.webp",
+        "Brand" : "Smartees",
+        "price" : "₹199",
+        "title" : "Men Hooded Neck Black T-Shirt",
+        "category" : "fashion",
+        "amount" : "199"
+    },{
+        "id" : "35",
+        "img" : "/Images/fashion/image3.webp",
+        "Brand" : "FastColors",
+        "price" : "₹249",
+        "title" : "Full sleeve tshirts boys",
+        "category" : "fashion",
+        "amount" : "249"
+    },{
+        "id" : "36",
+        "img" : "/Images/fashion/image4.webp",
+        "Brand" : "Supernova Inc.",
+        "price" : "₹499",
+        "title" : "Slim Men Grey Jeans",
+        "category" : "fashion",
+        "amount" : "499"
+    },{
+        "id" : "37",
+        "img" : "/Images/fashion/image5.webp",
+        "Brand" : "LEE TEX Inc.",
+        "price" : "₹213",
+        "title" : "Fit Women Black Cotton Trousers",
+        "category" : "fashion",
+        "amount" : "213"
+    },{
+        "id" : "38",
+        "img" : "/Images/fashion/image6.webp",
+        "Brand" : "Leelavati ",
+        "price" : "₹299",
+        "title" : "Printed Daily Sare(Dark Blue)",
+        "category" : "fashion",
+        "amount" : "299"
+    },{
+        "id" : "39",
+        "img" : "/Images/fashion/image7.webp",
+        "Brand" : "RESHAMDOR SAREES",
+        "price" : "₹629",
+        "title" : "Self Design Banarasi Art Saree",
+        "category" : "fashion",
+        "amount" : "649"
+    },{
+        "id" : "40",
+        "img" : "/Images/fashion/image8.webp",
+        "Brand" : "BIGCOIN",
+        "price" : "₹6299",
+        "title" : "RUNNING SHOES FOR MEN Football",
+        "category" : "fashion",
+        "amount" : "6299"
+    },{
+        "id" : "41",
+        "img" : "/Images/fashion/image9.webp",
+        "Brand" : "Paragon ",
+        "price" : "₹129",
+        "title" : "Men Green Sandal",
+        "category" : "fashion",
+        "amount" : "129"
+    },{
+        "id" : "42",
+        "img" : "/Images/fashion/image10.webp",
+        "Brand" : "aadi ",
+        "price" : "₹186",
+        "title" : "Running Shoes For Men  (Black)",
+        "category" : "fashion",
+        "amount" : "186"
+    },
+    {
+        "id" : "43",
+        "head" : "Electronics",
+        "img" : "/Images/electronic/image1.webp",
+        "Brand" : "Boult Audio ProBass",
+        "price" : "₹886",
+        "title" : " ProBass Neckband Bluetooth Headset",
+        "category" : "electronic",
+        "amount" : "886"
+    },{
+        "id" : "44",
+        "img" : "/Images/electronic/image2.webp",
+        "Brand" : "Mivi Roam2 5 W",
+        "price" : "₹1886",
+        "title" : "Bluetooth Speaker  (Black, Mono Channel)",
+        "category" : "electronic",
+        "amount" : "1886"
+    },{
+        "id" : "45",
+        "img" : "/Images/electronic/image3.webp",
+        "Brand" : "Wings Phantom Gaming TWS",
+        "price" : "₹986",
+        "title" : "Bluetooth Gaming Headset",
+        "category" : "electronic",
+        "amount" : "986"
+    },{
+        "id" : "46",
+        "img" : "/Images/electronic/image4.webp",
+        "Brand" : "truke Yoga Mystic",
+        "price" : "₹1111",
+        "title" : "50H Playtime, Fast Charge, ENC, Digital Display",
+        "category" : "electronic",
+        "amount" : "1111"
+    },{
+        "id" : "47",
+        "img" : "/Images/electronic/image5.webp",
+        "Brand" : "boAt Blitz 2000",
+        "price" : "₹4,886",
+        "title" : "Multimedia 100 W Bluetooth Home Theatre",
+        "category" : "electronic",
+        "amount" : "4886"
+    },{
+        "id" : "48",
+        "img" : "/Images/electronic/image6.webp",
+        "Brand" : "boAt Rockerz 370 ",
+        "price" : "₹1886",
+        "title" : "Bluetooth(Buoyant Black, On the Ear)",
+        "category" : "electronic",
+        "amount" : "1886"
+    },{
+        "id" : "49",
+        "img" : "/Images/electronic/image7.webp",
+        "Brand" : "SONY ZX110A",
+        "price" : "₹786",
+        "title" : "Wired without Mic Headset  (White, On the Ear)",
+        "category" : "electronic",
+        "amount" : "786"
+    },{
+        "id" : "50",
+        "img" : "/Images/electronic/image8.webp",
+        "Brand" : "Wings CentreStage",
+        "price" : "₹1,099",
+        "title" : "120 16 W Bluetooth Laptop/Desktop Speaker",
+        "category" : "electronic",
+        "amount" : "1099"
+    },
+    {
+        "id" : "60",
+        "head" : "Bedsheets,Curtain's and Towel's",
+        "img" : "/Images/home/image1.webp",
+        "Brand" : "Classic Mosquito Net",
+        "price" : "₹999",
+        "title" : "Polyester Adults Washable Foldable",
+        "category" : "home",
+        "amount" : "999"
+    },{
+        "id" : "61",
+        "img" : "/Images/home/image2.webp",
+        "Brand" : "Zolico",
+        "price" : "₹299",
+        "title" : "144 TC Microfiber Double 3D Printed Flat Bedsheet",
+        "category" : "home",
+        "amount" : "299"
+    },{
+        "id" : "62",
+        "img" : "/Images/home/image3.webp",
+        "Brand" : "Refrigerator Cover",
+        "price" : "₹379",
+        "title" : "1KB ENTERPRISES Refrigerator Cover",
+        "category" : "home",
+        "amount" : "379"
+    },{
+        "id" : "63",
+        "img" : "/Images/home/image4.webp",
+        "Brand" : "Homestar Embroidered Cushions",
+        "price" : "₹199",
+        "title" : " Cushions & Pillows Cover",
+        "category" : "home",
+        "amount" : "199"
+    },{
+        "id" : "64",
+        "img" : "/Images/home/image5.webp",
+        "Brand" : "Glun Cotton Home Use Apron",
+        "price" : "₹109",
+        "title" : "Free Size  (Black, Pack of 2)",
+        "category" : "home",
+        "amount" : "109"
+    },{
+        "id" : "65",
+        "img" : "/Images/home/image6.webp",
+        "Brand" : "Antique Homz",
+        "price" : "₹213",
+        "title" : "Floral Bolsters Cover",
+        "category" : "home",
+        "amount" : "213"
+    },{
+        "id" : "66",
+        "img" : "/Images/home/image7.webp",
+        "Brand" : "CHHAVI INDIA",
+        "price" : "₹1,199",
+        "title" : "120 TC Microfiber Double Printed Flat Bedsheet",
+        "category" : "home",
+        "amount" : "1119"
+    },{
+        "id" : "67",
+        "img" : "/Images/home/image8.webp",
+        "Brand" : "N G textiles Cotton",
+        "price" : "₹213",
+        "title" : "75 GSM Hand, Face, Sport, Beach Towel",
+        "category" : "home",
+        "amount" : "213"
+    },{
+        "id" : "68",
+        "img" : "/Images/home/image9.webp",
+        "Brand" : "Panipat Textile",
+        "price" : "₹629",
+        "title" : "Hub 213.5 cm (7 ft) Polyester Door Curtain",
+        "category" : "home",
+        "amount" : "629"
+    },
+    {
+        "id" : "69",
+        "head" : "TV,Refrigrators,Grinder and more",
+        "img" : "/Images/appliances/image1.webp",
+        "Brand" : "LG",
+        "price" : "₹51,234",
+        "title" : "LED Smart WebOS TV 2022",
+        "category" : "appliances",
+        "amount" : "51234"
+    },{
+        "id" : "70",
+        "img" : "/Images/appliances/image2.webp",
+        "Brand" : "Hitachi 1 Ton",
+        "price" : "₹31,229",
+        "title" : "3 Star Split Inverter AC - White",
+        "category" : "appliances",
+        "amount" : "31229"
+    },{
+        "id" : "71",
+        "img" : "/Images/appliances/image3.webp",
+        "Brand" : "USHA",
+        "price" : "₹3,870",
+        "title" : "TH800MX3 _ thunderbolt 800 W Mixer Grinder",
+        "category" : "appliances",
+        "amount" : "3870"
+    },{
+        "id" : "72",
+        "img" : "/Images/appliances/image4.webp",
+        "Brand" : "PHILIPS",
+        "price" : "₹2,329",
+        "title" : "HD2583/90",
+        "category" : "appliances",
+        "amount" : "2329"
+    },{
+        "id" : "73",
+        "img" : "/Images/appliances/image5.webp",
+        "Brand" : "Hafele Glamline Pro",
+        "price" : "₹629",
+        "title" : "800W Power Mixer with Mixing Attachments",
+        "category" : "appliances",
+        "amount" : "629"
+    },{
+        "id" : "74",
+        "img" : "/Images/appliances/image6.webp",
+        "Brand" : "Philips",
+        "price" : "₹1,629",
+        "title" : "Philips GC1905 Steam Iron",
+        "category" : "appliances",
+        "amount" : "1629"
+    },{
+        "id" : "75",
+        "img" : "/Images/appliances/image7.webp",
+        "Brand" : "BAJAJ",
+        "price" : "₹1,399",
+        "title" : "Crest Neo 1200 mm 3 Blade Ceiling Fan",
+        "category" : "appliances",
+        "amount" : "1399"
+    },{
+        "id" : "76",
+        "img" : "/Images/appliances/image8.webp",
+        "Brand" : "SAMSUNG 324",
+        "price" : "₹1,629",
+        "title" : "L Frost Free Double Door 2 Star Convertible",
+        "category" : "appliances",
+        "amount" : "1629"
+    },{
+        "id" : "77",
+        "img" : "/Images/appliances/image9.webp",
+        "Brand" : "SAMSUNG",
+        "price" : "₹14,429",
+        "title" : "6.5 kg Fully Automatic Top Load Silver",
+        "category" : "appliances",
+        "amount" : "14429"
+    },
+    {
+        "id" : "78",
+        "head" : "Beauty and more...",
+        "img" : "/Images/beauty/image1.webp",
+        "Brand" : "TRESemme",
+        "price" : "₹629",
+        "title" : "TRESemme Keratin Smooth Shampoo",
+        "category" : "beauty",
+        "amount" : "629"
+    },{
+        "id" : "79",
+        "img" : "/Images/beauty/image2.webp",
+        "Brand" : "MamaEarth",
+        "price" : "₹329",
+        "title" : "HydraGel Indian Sunscreen SPF 50",
+        "category" : "beauty",
+        "amount" : "329"
+    },{
+        "id" : "80",
+        "img" : "/Images/beauty/image3.webp",
+        "Brand" : "LIFEBUOY",
+        "price" : "₹210",
+        "title" : "LIFEBUOY Total 10  (7 x 125 g)",
+        "category" : "beauty",
+        "amount" : "210"
+    },{
+        "id" : "81",
+        "img" : "/Images/beauty/image4.webp",
+        "Brand" : "Vaseline",
+        "price" : "₹629",
+        "title" : "Vaseline Intensive Care Deep Moisture Body ",
+        "category" : "beauty",
+        "amount" : "629"
+    },{
+        "id" : "82",
+        "img" : "/Images/beauty/image5.webp",
+        "Brand" : "BEARDO Activated Charcoal",
+        "price" : "₹198",
+        "title" : "Anti-Pollution for Deep Pore Cleaning",
+        "category" : "beauty",
+        "amount" : "198"
+    },{
+        "id" : "83",
+        "img" : "/Images/beauty/image6.webp",
+        "Brand" : "Lakmé",
+        "price" : "₹127",
+        "title" : "Lakmé Insta Eye Liner 9 ml",
+        "category" : "beauty",
+        "amount" : "127"
+    },{
+        "id" : "84",
+        "img" : "/Images/beauty/image7.webp",
+        "Brand" : "Bella vita organic",
+        "price" : "₹129",
+        "title" : "GLAM Body Parfum with Premium & Long Lasting",
+        "category" : "beauty",
+        "amount" : "129"
+    },{
+        "id" : "85",
+        "img" : "/Images/beauty/image8.webp",
+        "Brand" : "Lakmé",
+        "price" : "₹279",
+        "title" : "Lakmé Absolute Perfect Radiance Skin",
+        "category" : "beauty",
+        "amount" : "279"
+    },{
+        "id" : "86",
+        "img" : "/Images/beauty/image9.webp",
+        "Brand" : "NIVEA Soft",
+        "price" : "₹629",
+        "title" : "Moisturizing Cream for all skin types",
+        "category" : "beauty",
+        "amount" : "629"
+    },
+    {
+        "id" : "87",
+        "head" : "Electric Vehicles",
+        "img" : "/Images/2wheelers/image1.webp",
+        "Brand" : "Ampere Magnus",
+        "price" : "₹77,248",
+        "title" : "EX Graphite Black Booking for Ex-showroom Price",
+        "category" : "2wheelers",
+        "amount" : "77248"
+    },{
+        "id" : "88",
+        "img" : "/Images/2wheelers/image2.webp",
+        "Brand" : "Bounce Infinity",
+        "price" : "₹70,248",
+        "title" : "E1 Comet Gray Booking for Ex-showroom Price",
+        "category" : "2wheelers",
+        "amount" : "70248"
+    },{
+        "id" : "89",
+        "img" : "/Images/2wheelers/image3.webp",
+        "Brand" : "Bounce Infinity",
+        "price" : "₹77,248",
+        "title" : "E1 Pearl White Booking for Ex-showroom Price",
+        "category" : "2wheelers",
+        "amount" : "77248"
+    },{
+        "id" : "90",
+        "img" : "/Images/2wheelers/image4.webp",
+        "Brand" : "Ampere Magnus",
+        "price" : "₹77,248",
+        "title" : "EX Metallic Red Booking for Ex-showroom Price",
+        "category" : "2wheelers",
+        "amount" : "77248"
+    },{
+        "id" : "91",
+        "img" : "/Images/2wheelers/image5.webp",
+        "Brand" : "Bounce Infinity E1",
+        "price" : "₹70,248",
+        "title" : "Desat Silver Booking for Ex-showroom Price ",
+        "category" : "2wheelers",
+        "amount" : "702248"
+    },{
+        "id" : "92",
+        "img" : "/Images/2wheelers/image6.webp",
+        "Brand" : "Bounce Infinity E1",
+        "price" : "₹79,248",
+        "title" : "Sporty Red Booking for Ex-showroom Price",
+        "category" : "2wheelers",
+        "amount" : "79248"
+    }
+]
+
+

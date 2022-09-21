@@ -1,0 +1,165 @@
+.container{
+    position: fixed;
+    width: 100%;
+    height:60px;
+    top:0px;
+    background-color: #2874f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+}
+
+.container div{
+    height: 60px;
+    width: 10%;
+}
+
+.subContainer1{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sub_Container{
+  width:65% !important;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.sub_Container1{
+    margin: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: inherit;
+    color: white;
+}
+
+.sub_Container2{
+    margin: 0px;
+    font-size: 11px;
+    font-style: italic;
+    margin-top: -1px;
+    color: white;
+}
+
+.sub_Container2 span{
+    color: gold;
+}
+
+
+.subContainer2{
+    width: 30% !important;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height:36px !important;
+}
+
+.subContainer2 input{
+    width: 100%;
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    border: 0;
+    outline: 0 none;
+    font-size: 14px;
+    height: 36px;
+}
+
+.svg-icon.search-icon {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+  }
+
+.subContainer2 svg{
+    margin-right: 10px;
+  }
+
+.subContainer3{
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     /* background-color: blue; */
+  }
+
+.sub_Container3{
+    width: 80% !important;
+    height: 32px !important;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #2874f0;
+}
+
+.subContainer4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.subContainer5{
+    display: flex;
+    justify-content: center;
+}
+
+.sub_Container5{
+    width: 60% !important;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub_Container5 div{
+    width:80%;
+    height: 25px;
+    color: white;
+}
+.subContainer6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subContainer6 div {
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subContainer6 p{
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.subContainer6 span{
+    color: white;
+    margin-left: 5px;
+    font-size: 19px;
+}
+
+.subContainer6 h6{
+    position: fixed;
+    top: 8px;
+    color: wheat;
+    border-radius: 35%;
+    margin: 0px 0px 0px 6px;
+    background-color: #f56161;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    padding: 3px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+

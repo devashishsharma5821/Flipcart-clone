@@ -1,0 +1,252 @@
+import React from "react";
+import classes from "./HeaderLayoutDetail.module.css";
+import topoffers from "../../Data/topoffers.json";
+import image1 from "../../Image/header/appliances.webp";
+import image2 from "../../Image/HeaderLayoutDetail/image1.png";
+import image3 from "../../Image/HeaderLayoutDetail/image2.webp";
+import { FaShoppingCart } from "react-icons/fa";
+import { IoMdFlash } from "react-icons/io";
+import { RiSecurePaymentFill } from "react-icons/ri";
+import { useParams } from "react-router-dom";
+
+const HeaderLayoutDetail = () => {
+  const params = useParams();
+
+  return (
+    <div>
+      {topoffers.map((item, index) => {
+        if (item.id === params.productDetail) {
+          return (
+            <div className={classes.container} key={index}>
+              <div className={classes.subContainer1}>
+                <div className={classes.subsubContainer1}>
+                  <div className={classes.subsubimgContainer}>
+                    <img src={item.img} />
+                  </div>
+                  <div className={classes.subsubsubContainer}>
+                    <button className={classes.subsubsubContainer1}>
+                      <p>
+                        <FaShoppingCart />
+                      </p>
+                      <span>ADD TO CART</span>
+                    </button>
+                    <button className={classes.subsubsubContainer2}>
+                      <p>
+                        <IoMdFlash />
+                      </p>
+                      <span>BUY NOW</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div className={classes.subContainer2}>
+                <p className={classes.subContainer2p1}>{item.title}</p>
+                <p className={classes.subContainer2p2}>
+                  8 Ratings & 1 Reviews{" "}
+                  <span>
+                    <img src={image2} />
+                  </span>
+                </p>
+                <p className={classes.subContainer2p3}>
+                  <span className={classes.subContainer2p3s1}>
+                    ₹{item.amount}
+                  </span>
+                  <span className={classes.subContainer2p3s2}>
+                    ₹{item.amount * 2}
+                  </span>
+                  <span className={classes.subContainer2p3s3}>47% off</span>
+                </p>
+                <p className={classes.subContainer2p4}>Avaliable offer</p>
+                <div className={classes.subContainer2p5}>
+                  <p className={classes.subContainer2p5p1}>
+                    <span>
+                      <RiSecurePaymentFill />
+                    </span>
+                    <h6>
+                      Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank
+                      Credit Card
+                    </h6>
+                  </p>
+                  <p className={classes.subContainer2p5p2}>
+                    <span>
+                      <RiSecurePaymentFill />
+                    </span>
+                    <h6>
+                      Bank Offer 10% Off on Bank of Baroda Mastercard debit card
+                      first time transaction, Terms and Condition apply
+                    </h6>
+                  </p>
+                  <p className={classes.subContainer2p5p3}>
+                    <span>
+                      <RiSecurePaymentFill />
+                    </span>
+                    <h6>
+                      Purchase this Furniture or Appliance and Get Extra ₹500
+                      Off on Select ACs
+                    </h6>
+                  </p>
+                  <p className={classes.subContainer2p5p4}>
+                    <span>
+                      <RiSecurePaymentFill />
+                    </span>
+                    <h6>
+                      Partner OfferExtra 10% off upto ₹500 on next furniture
+                      purchase
+                    </h6>
+                  </p>
+                </div>
+                <div className={classes.subContainer2p6}>
+                  <div>
+                    <p className={classes.row1col1}>Delivery</p>
+                    <p className={classes.row1col2}>
+                      Delivery by Thu Sep 22 2022 | ₹40
+                    </p>
+                  </div>
+                  <div>
+                    <p className={classes.row2col1}>Warranty</p>
+                    <p className={classes.row2col2}>No Warranty</p>
+                  </div>
+                  <div>
+                    <p className={classes.row3col1}>Seller</p>
+                    <p className={classes.row3col2}>
+                      <span>SuperComNet</span>
+                      <p>GST invoice available</p>
+                      <p>View more sellers starting from ₹329</p>
+                    </p>
+                  </div>
+                  <div>
+                    <p className={classes.row4col1}>
+                      <img src={image3} />
+                    </p>
+                  </div>
+                  <div>
+                    <p className={classes.row5col1}>Description</p>
+                    <p className={classes.row5col2}>
+                      This electric kettle from Pigeon will soon become a
+                      travelers best friend, a hostelite saviour and an answer
+                      to all the midnight cravings. With this handy appliance,
+                      you can boil water and use it to make instant noodles,
+                      packet soup, coffee and green tea.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          );
+        }
+      })}
+    </div>
+    // <div className={classes.container}>
+    //   <div className={classes.subContainer1}>
+    //     <div className={classes.subsubContainer1}>
+    //       <div className={classes.subsubimgContainer}>
+    //         <img src={image1} />
+    //       </div>
+    //       <div className={classes.subsubsubContainer}>
+    //         <button className={classes.subsubsubContainer1}>
+    //           <p>
+    //             <FaShoppingCart />
+    //           </p>
+    //           <span>ADD TO CART</span>
+    //         </button>
+    //         <button className={classes.subsubsubContainer2}>
+    //           <p>
+    //             <IoMdFlash />
+    //           </p>
+    //           <span>BUY NOW</span>
+    //         </button>
+    //       </div>
+    //     </div>
+    //   </div>
+    //   <div className={classes.subContainer2}>
+    //     <p className={classes.subContainer2p1}>
+    //       Pigeon FAVOURITE Electric Kettle (1.5 L, Silver, Black)
+    //     </p>
+    //     <p className={classes.subContainer2p2}>
+    //       8 Ratings & 1 Reviews{" "}
+    //       <span>
+    //         <img src={image2} />
+    //       </span>
+    //     </p>
+    //     <p className={classes.subContainer2p3}>
+    //       <span className={classes.subContainer2p3s1}>₹625</span>
+    //       <span className={classes.subContainer2p3s2}>₹1195</span>
+    //       <span className={classes.subContainer2p3s3}>47% off</span>
+    //     </p>
+    //     <p className={classes.subContainer2p4}>Avaliable offer</p>
+    //     <div className={classes.subContainer2p5}>
+    //       <p className={classes.subContainer2p5p1}>
+    //         <span>
+    //           <RiSecurePaymentFill />
+    //         </span>
+    //         <h6>
+    //           Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card
+    //         </h6>
+    //       </p>
+    //       <p className={classes.subContainer2p5p2}>
+    //         <span>
+    //           <RiSecurePaymentFill />
+    //         </span>
+    //         <h6>
+    //           Bank Offer 10% Off on Bank of Baroda Mastercard debit card first
+    //           time transaction, Terms and Condition apply
+    //         </h6>
+    //       </p>
+    //       <p className={classes.subContainer2p5p3}>
+    //         <span>
+    //           <RiSecurePaymentFill />
+    //         </span>
+    //         <h6>
+    //           Purchase this Furniture or Appliance and Get Extra ₹500 Off on
+    //           Select ACs
+    //         </h6>
+    //       </p>
+    //       <p className={classes.subContainer2p5p4}>
+    //         <span>
+    //           <RiSecurePaymentFill />
+    //         </span>
+    //         <h6>
+    //           Partner OfferExtra 10% off upto ₹500 on next furniture purchase
+    //         </h6>
+    //       </p>
+    //     </div>
+    //     <div className={classes.subContainer2p6}>
+    //       <div>
+    //         <p className={classes.row1col1}>Delivery</p>
+    //         <p className={classes.row1col2}>
+    //           Delivery by Thu Sep 22 2022 | ₹40
+    //         </p>
+    //       </div>
+    //       <div>
+    //         <p className={classes.row2col1}>Warranty</p>
+    //         <p className={classes.row2col2}>No Warranty</p>
+    //       </div>
+    //       <div>
+    //         <p className={classes.row3col1}>Seller</p>
+    //         <p className={classes.row3col2}>
+    //           <span>SuperComNet</span>
+    //           <p>GST invoice available</p>
+    //           <p>View more sellers starting from ₹329</p>
+    //         </p>
+    //       </div>
+    //       <div>
+    //         <p className={classes.row4col1}>
+    //           <img src={image3} />
+    //         </p>
+    //       </div>
+    //       <div>
+    //         <p className={classes.row5col1}>Description</p>
+    //         <p className={classes.row5col2}>
+    //           This electric kettle from Pigeon will soon become a travelers best
+    //           friend, a hostelite saviour and an answer to all the midnight
+    //           cravings. With this handy appliance, you can boil water and use it
+    //           to make instant noodles, packet soup, coffee and green tea.
+    //         </p>
+    //       </div>
+    //     </div>
+    //   </div>
+    // </div>
+  );
+};
+
+export default HeaderLayoutDetail;

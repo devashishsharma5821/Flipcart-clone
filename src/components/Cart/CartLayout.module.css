@@ -1,0 +1,26 @@
+.image{
+    width: 221.91px;
+    height: 162px;
+}
+
+.heading1{
+    font-size: 18px;
+    margin-top: 24px;
+    font-family: Arial,sans-serif;
+    text-align: center;
+}
+
+.heading2{
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+button{
+    font-size: 14px;
+    margin-top: 20px;
+    padding: 12px 72px;
+    background-color: #3674f0;
+    color: white;
+    border: none;
+} 
