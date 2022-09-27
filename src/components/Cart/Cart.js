@@ -15,7 +15,9 @@ const Cart = () => {
         <div className={classes.subContainer1}>
           <div className={classes.subsubContainer1}>
             <NavLink
-              className={(navData) => (navData.isActive ? classes.active : classes.notActive)}
+              className={(navData) =>
+                navData.isActive ? classes.active : classes.notActive
+              }
               to="/cart/Flipkart"
             >
               <div className={classes.subsubsubContainer1}>Flipkart</div>
@@ -23,7 +25,9 @@ const Cart = () => {
           </div>
           <div className={classes.subsubContainer2}>
             <NavLink
-              className={(navData) => (navData.isActive ? classes.active : classes.notActive)}
+              className={(navData) =>
+                navData.isActive ? classes.active : classes.notActive
+              }
               to="/cart/Grocery"
             >
               <div className={classes.subsubsubContainer2}>Grocery</div>
