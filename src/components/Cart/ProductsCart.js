@@ -1,17 +1,30 @@
 import React from "react";
 import classes from "./ProductsCart.module.css";
 import ProductsCartItemFrame from "./ProductsCartItemFrame";
+import { useSelector } from "react-redux";
 
 const ProductsCart = () => {
+  const items = useSelector((state) => state.items);
+  console.log(items);
+
   return (
     <div className={classes.container}>
       <div className={classes.subContainer}>
         <div className={classes.subContainer1}>
           <div className={classes.subContainer1sub1}>My Cart(3)</div>
-          <ProductsCartItemFrame />
-          <ProductsCartItemFrame />
-          <ProductsCartItemFrame />
-          <ProductsCartItemFrame />
+          {items.map((item) => {
+            return (
+              <ProductsCartItemFrame
+                key={item.id}
+                img={item.img}
+                price={item.price}
+                title={item.title}
+                brand={item.brand}
+                amount={item.amount}
+                id={item.id}
+              />
+            );
+          })}
           <div className={classes.subContainer1sub2}>
             <button>PLACE ORDER</button>
           </div>
@@ -21,7 +34,7 @@ const ProductsCart = () => {
             <span>PRICE DETAILS</span>
             <div className={classes.subContainer2sub1sub}>
               <div className={classes.subContainer2sub1sub1}>
-                <div>Price(2items)</div>
+                <div>Price({items.length}items)</div>
                 <span>₹1,33,497</span>
               </div>
               <div className={classes.subContainer2sub1sub2}>

@@ -15,9 +15,9 @@
 
 .subsubimgContainer {
   width: 400px;
-  text-align: center; 
+  text-align: center;
 }
-.subsubimgContainer img{
+.subsubimgContainer img {
   max-width: 400px;
   max-height: 572px;
 }

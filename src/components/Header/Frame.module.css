@@ -1,51 +1,54 @@
- .subcontainer1{
-    width: 335px;
-    min-width: 200px;
-    height: 338px;
-    margin: 10px 19px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.subcontainer1 {
+  width: 335px;
+  min-width: 200px;
+  height: 338px;
+  margin: 10px 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.subcontainer1 div{
-    width: 167px;
-    height: 200px;
-    margin-top: 10px;
-    text-align: center;
+.subcontainer1 div {
+  height: 200px;
+  margin-top: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 268px;
 }
 
-.brand{
-    margin: 15px 0px 0px 0px;
-    font-size: 14px;
-    font-weight: bold;
-    margin-top: 15px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    font-family: Arial,sans-serif;
+.brand {
+  margin: 15px 0px 0px 0px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 15px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: Arial, sans-serif;
 }
 
-.price{
-    margin: 15px 0px 0px 0px;
-    color: rgb(56, 142, 60);
-    padding-top: 8px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    font-family: Arial,sans-serif;
+.price {
+  margin: 15px 0px 0px 0px;
+  color: rgb(56, 142, 60);
+  padding-top: 8px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: Arial, sans-serif;
 }
 
-.title{
-    margin: 15px 0px 0px 0px;
-    opacity: 0.6;
-    padding-top: 7px;
-    font-size: 14px;
+.title {
+  margin: 15px 0px 0px 0px;
+  opacity: 0.6;
+  padding-top: 7px;
+  font-size: 14px;
 }
-.subcontainer1 img{
-    max-height: 200px;
-    max-width: 167px;
+.subcontainer1 img {
+  max-height: 200px;
+  max-width: 167px;
 }
 
-.subcontainer1 p{
-    text-align: center;
+.subcontainer1 p {
+  text-align: center;
 }

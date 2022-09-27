@@ -7,13 +7,10 @@ import image4 from "../Image/carousel/image4.webp";
 import Carousel from "../components/Carousel/Carousel.js";
 import carousels from "../Data/carousels.json";
 import "./Home.css";
-// import ProductsCart from "../components/Cart/ProductsCart.js";
-// import LoginModal from "../components/Modal/LoginModal.js";
 
 const Home = () => {
   return (
     <React.Fragment>
-      {/* <LoginModal /> */}
       <Header />
       <div
         id="carouselExampleControlsNoTouching"
@@ -41,7 +38,10 @@ const Home = () => {
           data-bs-target="#carouselExampleControlsNoTouching"
           data-bs-slide="prev"
         >
-          <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span
+            className="carousel-control-prev-icon"
+            aria-hidden="true"
+          ></span>
           <span className="visually-hidden">Previous</span>
         </button>
         <button
@@ -50,19 +50,17 @@ const Home = () => {
           data-bs-target="#carouselExampleControlsNoTouching"
           data-bs-slide="next"
         >
-          <span className="carousel-control-next-icon" aria-hidden="true"></span>
+          <span
+            className="carousel-control-next-icon"
+            aria-hidden="true"
+          ></span>
           <span className="visually-hidden">Next</span>
         </button>
       </div>
 
-      {
-        carousels.map((carousel) => {
-          return (
-            <Carousel head={carousel[0].head} data={carousel} />
-          )
-        })
-      }
-      {/* <ProductsCart /> */}
+      {carousels.map((carousel, index) => {
+        return <Carousel key={index} head={carousel[0].head} data={carousel} />;
+      })}
     </React.Fragment>
   );
 };
