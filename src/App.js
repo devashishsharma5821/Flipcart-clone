@@ -22,7 +22,6 @@ function App() {
           path="/products/:productsId/:productDetail"
           element={<HeaderLayoutDetail />}
         />
-        {/* <Route path='/cart' element={ <Cart />} /> */}
         <Route
           path="/cart/:cartItems"
           element={itemsLength ? <ProductsCart /> : <Cart />}

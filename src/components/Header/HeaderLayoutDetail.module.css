@@ -112,11 +112,11 @@
   margin: 10px 0px 0px 0px;
 }
 
-.subContainer2p5 p {
+.subContainer2p5 > div {
   margin: 10px 0px 0px 0px;
   display: flex;
 }
-.subContainer2p5 h6 {
+.subContainer2p5 div {
   font-size: 14px;
   font-weight: normal;
 }

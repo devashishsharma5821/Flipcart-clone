@@ -31,13 +31,14 @@ const HeaderLayoutDetail = () => {
                     <img src={item.img} alt={index} />
                   </div>
                   <div className={classes.subsubsubContainer}>
-                    <button className={classes.subsubsubContainer1}>
+                    <button
+                      className={classes.subsubsubContainer1}
+                      onClick={addToCartHandler.bind(null, item)}
+                    >
                       <p>
                         <FaShoppingCart />
                       </p>
-                      <span onClick={addToCartHandler.bind(null, item)}>
-                        ADD TO CART
-                      </span>
+                      <span>ADD TO CART</span>
                     </button>
                     <button className={classes.subsubsubContainer2}>
                       <p>
@@ -67,42 +68,42 @@ const HeaderLayoutDetail = () => {
                 </p>
                 <p className={classes.subContainer2p4}>Avaliable offer</p>
                 <div className={classes.subContainer2p5}>
-                  <p className={classes.subContainer2p5p1}>
+                  <div className={classes.subContainer2p5p1}>
                     <span>
                       <RiSecurePaymentFill />
                     </span>
-                    <h6>
+                    <div>
                       Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank
                       Credit Card
-                    </h6>
-                  </p>
-                  <p className={classes.subContainer2p5p2}>
+                    </div>
+                  </div>
+                  <div className={classes.subContainer2p5p2}>
                     <span>
                       <RiSecurePaymentFill />
                     </span>
-                    <h6>
+                    <div>
                       Bank Offer 10% Off on Bank of Baroda Mastercard debit card
                       first time transaction, Terms and Condition apply
-                    </h6>
-                  </p>
-                  <p className={classes.subContainer2p5p3}>
+                    </div>
+                  </div>
+                  <div className={classes.subContainer2p5p3}>
                     <span>
                       <RiSecurePaymentFill />
                     </span>
-                    <h6>
+                    <div>
                       Purchase this Furniture or Appliance and Get Extra ₹500
                       Off on Select ACs
-                    </h6>
-                  </p>
-                  <p className={classes.subContainer2p5p4}>
+                    </div>
+                  </div>
+                  <div className={classes.subContainer2p5p4}>
                     <span>
                       <RiSecurePaymentFill />
                     </span>
-                    <h6>
+                    <div>
                       Partner OfferExtra 10% off upto ₹500 on next furniture
                       purchase
-                    </h6>
-                  </p>
+                    </div>
+                  </div>
                 </div>
                 <div className={classes.subContainer2p6}>
                   <div>
@@ -117,11 +118,11 @@ const HeaderLayoutDetail = () => {
                   </div>
                   <div>
                     <p className={classes.row3col1}>Seller</p>
-                    <p className={classes.row3col2}>
+                    <div className={classes.row3col2}>
                       <span>SuperComNet</span>
                       <p>GST invoice available</p>
                       <p>View more sellers starting from ₹329</p>
-                    </p>
+                    </div>
                   </div>
                   <div>
                     <p className={classes.row4col1}>
