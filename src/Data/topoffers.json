@@ -7,7 +7,8 @@
     "price": "₹449+Extra 10%Off",
     "title": "Jeans",
     "category": "topoffers",
-    "amount": "449"
+    "amount": "449",
+    "quantity": "1"
   },
   {
     "id": "2",
@@ -16,7 +17,8 @@
     "price": "from ₹199",
     "title": "Men & Women",
     "category": "topoffers",
-    "amount": "199"
+    "amount": "199",
+    "quantity": "1"
   },
   {
     "id": "3",
@@ -25,7 +27,8 @@
     "price": "Min 50% Off",
     "title": "Men & Women watches",
     "category": "topoffers",
-    "amount": "449"
+    "amount": "449",
+    "quantity": "1"
   },
   {
     "id": "4",
@@ -34,7 +37,8 @@
     "price": "Upto 70% off",
     "title": "Backpacks",
     "category": "topoffers",
-    "amount": "749"
+    "amount": "749",
+    "quantity": "1"
   },
   {
     "id": "5",
@@ -43,7 +47,8 @@
     "price": "₹129",
     "title": "Men & Women Sunglasses",
     "category": "topoffers",
-    "amount": "129"
+    "amount": "129",
+    "quantity": "1"
   },
   {
     "id": "6",
@@ -52,7 +57,8 @@
     "price": "₹149+Extra 10% Off",
     "title": "Men T-Shirts",
     "category": "topoffers",
-    "amount": "149"
+    "amount": "149",
+    "quantity": "1"
   },
   {
     "id": "7",
@@ -61,7 +67,8 @@
     "price": "under ₹999",
     "title": "Slingbags",
     "category": "topoffers",
-    "amount": "899"
+    "amount": "899",
+    "quantity": "1"
   },
   {
     "id": "8",
@@ -70,7 +77,8 @@
     "price": "under ₹999",
     "title": "Premium brands On Sale",
     "category": "topoffers",
-    "amount": "649"
+    "amount": "649",
+    "quantity": "1"
   },
   {
     "id": "9",
@@ -80,7 +88,8 @@
     "price": "₹100",
     "title": "Yumfills Cake Cookie Cake",
     "category": "grocery",
-    "amount": "100"
+    "amount": "100",
+    "quantity": "1"
   },
   {
     "id": "10",
@@ -89,7 +98,8 @@
     "price": "₹99",
     "title": " Ultra Soft Ultra Soft Toothbrush",
     "category": "grocery",
-    "amount": "99"
+    "amount": "99",
+    "quantity": "1"
   },
   {
     "id": "11",
@@ -98,7 +108,8 @@
     "price": "₹31",
     "title": "PET Bottle  (750 ml)",
     "category": "grocery",
-    "amount": "31"
+    "amount": "31",
+    "quantity": "1"
   },
   {
     "id": "12",
@@ -107,7 +118,8 @@
     "price": "₹20+20% off",
     "title": " California Almonds  (1 kg)",
     "category": "grocery",
-    "amount": "20"
+    "amount": "20",
+    "quantity": "1"
   },
   {
     "id": "13",
@@ -116,7 +128,8 @@
     "price": "₹200",
     "title": "Chocolate Coated Soft Biscuit Cream Filled",
     "category": "grocery",
-    "amount": "200"
+    "amount": "200",
+    "quantity": "1"
   },
   {
     "id": "14",
@@ -125,7 +138,8 @@
     "price": "₹57",
     "title": "Masala Guava(1 L)",
     "category": "grocery",
-    "amount": "57"
+    "amount": "57",
+    "quantity": "1"
   },
   {
     "id": "15",
@@ -134,7 +148,8 @@
     "price": "under ₹80",
     "title": "Classic Blend Ketchup  (800 g)",
     "category": "grocery",
-    "amount": "80"
+    "amount": "80",
+    "quantity": "1"
   },
   {
     "id": "16",
@@ -143,7 +158,8 @@
     "price": "₹110",
     "title": "Potato Stix Aloo Chat Chips  (70 g)",
     "category": "grocery",
-    "amount": "110"
+    "amount": "110",
+    "quantity": "1"
   },
   {
     "id": "17",
@@ -152,7 +168,8 @@
     "price": "₹200",
     "title": "Red Toothpaste(700 g)",
     "category": "grocery",
-    "amount": "200"
+    "amount": "200",
+    "quantity": "1"
   },
   {
     "id": "18",
@@ -161,7 +178,8 @@
     "price": "under ₹150",
     "title": "genuine Chocalate Flavour",
     "category": "grocery",
-    "amount": "150"
+    "amount": "150",
+    "quantity": "1"
   },
   {
     "id": "19",
@@ -170,7 +188,8 @@
     "price": "₹250",
     "title": "Perfume Body Spray - For Men",
     "category": "grocery",
-    "amount": "250"
+    "amount": "250",
+    "quantity": "1"
   },
   {
     "id": "20",
@@ -179,7 +198,8 @@
     "price": "₹170",
     "title": "Navratan Mixture(1 kg)",
     "category": "grocery",
-    "amount": "170"
+    "amount": "170",
+    "quantity": "1"
   },
   {
     "id": "21",
@@ -188,7 +208,8 @@
     "price": "₹130",
     "title": "Choco Fills Cream Filled(300 g)",
     "category": "grocery",
-    "amount": "130"
+    "amount": "130",
+    "quantity": "1"
   },
   {
     "id": "22",
@@ -198,7 +219,8 @@
     "price": "₹14,499",
     "title": "realme9 (Stargaze White, 128GB",
     "category": "mobiles",
-    "amount": "14499"
+    "amount": "14499",
+    "quantity": "1"
   },
   {
     "id": "23",
@@ -207,7 +229,8 @@
     "price": "₹12,999",
     "title": "Poco M4(cool Blue,64GB",
     "category": "mobiles",
-    "amount": "12999"
+    "amount": "12999",
+    "quantity": "1"
   },
   {
     "id": "24",
@@ -216,7 +239,8 @@
     "price": "17,990",
     "title": "Pro+ 5G(Space Silver, 128GB)",
     "category": "mobiles",
-    "amount": "17990"
+    "amount": "17990",
+    "quantity": "1"
   },
   {
     "id": "25",
@@ -225,7 +249,8 @@
     "price": "₹16999",
     "title": "realme 9 (Midnight Black,128 GB)",
     "category": "mobiles",
-    "amount": "16999"
+    "amount": "16999",
+    "quantity": "1"
   },
   {
     "id": "26",
@@ -234,7 +259,8 @@
     "price": "₹29,999",
     "title": "OPPO(Shimmer Gold,128 GB",
     "category": "mobiles",
-    "amount": "29999"
+    "amount": "29999",
+    "quantity": "1"
   },
   {
     "id": "27",
@@ -243,7 +269,8 @@
     "price": "₹14999+Extra 10% Off",
     "title": "30 PRO 5G(Blade Silver)",
     "category": "mobiles",
-    "amount": "14999"
+    "amount": "14999",
+    "quantity": "1"
   },
   {
     "id": "28",
@@ -252,7 +279,8 @@
     "price": "under ₹27,999",
     "title": "POCO F4(Nebula Green,128 GB)",
     "category": "mobiles",
-    "amount": "27999"
+    "amount": "27999",
+    "quantity": "1"
   },
   {
     "id": "29",
@@ -261,7 +289,8 @@
     "price": "₹8,199",
     "title": "Premium brands(Horizon Blue)",
     "category": "mobiles",
-    "amount": "8199"
+    "amount": "8199",
+    "quantity": "1"
   },
   {
     "id": "30",
@@ -270,7 +299,8 @@
     "price": "₹69,900",
     "title": "APPLE iPhone13(Starlight 128 GB)",
     "category": "mobiles",
-    "amount": "69900"
+    "amount": "69900",
+    "quantity": "1"
   },
   {
     "id": "31",
@@ -279,7 +309,8 @@
     "price": "₹70,199",
     "title": "APPLE iPhone13(Midnight 128 GB)",
     "category": "mobiles",
-    "amount": "70199"
+    "amount": "70199",
+    "quantity": "1"
   },
   {
     "id": "32",
@@ -288,7 +319,8 @@
     "price": "₹80,199",
     "title": "APPLE iPhone13(Green 128 GB)",
     "category": "mobiles",
-    "amount": "80199"
+    "amount": "80199",
+    "quantity": "1"
   },
   {
     "id": "33",
@@ -298,7 +330,8 @@
     "price": "₹381",
     "title": "Men Slim Fit Collar Shirt",
     "category": "fashion",
-    "amount": "381"
+    "amount": "381",
+    "quantity": "1"
   },
   {
     "id": "34",
@@ -307,7 +340,8 @@
     "price": "₹199",
     "title": "Men Hooded Neck Black T-Shirt",
     "category": "fashion",
-    "amount": "199"
+    "amount": "199",
+    "quantity": "1"
   },
   {
     "id": "35",
@@ -316,7 +350,8 @@
     "price": "₹249",
     "title": "Full sleeve tshirts boys",
     "category": "fashion",
-    "amount": "249"
+    "amount": "249",
+    "quantity": "1"
   },
   {
     "id": "36",
@@ -325,7 +360,8 @@
     "price": "₹499",
     "title": "Slim Men Grey Jeans",
     "category": "fashion",
-    "amount": "499"
+    "amount": "499",
+    "quantity": "1"
   },
   {
     "id": "37",
@@ -334,7 +370,8 @@
     "price": "₹213",
     "title": "Fit Women Black Cotton Trousers",
     "category": "fashion",
-    "amount": "213"
+    "amount": "213",
+    "quantity": "1"
   },
   {
     "id": "38",
@@ -343,7 +380,8 @@
     "price": "₹299",
     "title": "Printed Daily Sare(Dark Blue)",
     "category": "fashion",
-    "amount": "299"
+    "amount": "299",
+    "quantity": "1"
   },
   {
     "id": "39",
@@ -352,7 +390,8 @@
     "price": "₹629",
     "title": "Self Design Banarasi Art Saree",
     "category": "fashion",
-    "amount": "649"
+    "amount": "649",
+    "quantity": "1"
   },
   {
     "id": "40",
@@ -361,7 +400,8 @@
     "price": "₹6299",
     "title": "RUNNING SHOES FOR MEN Football",
     "category": "fashion",
-    "amount": "6299"
+    "amount": "6299",
+    "quantity": "1"
   },
   {
     "id": "41",
@@ -370,7 +410,8 @@
     "price": "₹129",
     "title": "Men Green Sandal",
     "category": "fashion",
-    "amount": "129"
+    "amount": "129",
+    "quantity": "1"
   },
   {
     "id": "42",
@@ -379,7 +420,8 @@
     "price": "₹186",
     "title": "Running Shoes For Men  (Black)",
     "category": "fashion",
-    "amount": "186"
+    "amount": "186",
+    "quantity": "1"
   },
   {
     "id": "43",
@@ -389,7 +431,8 @@
     "price": "₹886",
     "title": " ProBass Neckband Bluetooth Headset",
     "category": "electronic",
-    "amount": "886"
+    "amount": "886",
+    "quantity": "1"
   },
   {
     "id": "44",
@@ -398,7 +441,8 @@
     "price": "₹1886",
     "title": "Bluetooth Speaker  (Black, Mono Channel)",
     "category": "electronic",
-    "amount": "1886"
+    "amount": "1886",
+    "quantity": "1"
   },
   {
     "id": "45",
@@ -407,7 +451,8 @@
     "price": "₹986",
     "title": "Bluetooth Gaming Headset",
     "category": "electronic",
-    "amount": "986"
+    "amount": "986",
+    "quantity": "1"
   },
   {
     "id": "46",
@@ -416,7 +461,8 @@
     "price": "₹1111",
     "title": "50H Playtime, Fast Charge, ENC, Digital Display",
     "category": "electronic",
-    "amount": "1111"
+    "amount": "1111",
+    "quantity": "1"
   },
   {
     "id": "47",
@@ -425,7 +471,8 @@
     "price": "₹4,886",
     "title": "Multimedia 100 W Bluetooth Home Theatre",
     "category": "electronic",
-    "amount": "4886"
+    "amount": "4886",
+    "quantity": "1"
   },
   {
     "id": "48",
@@ -434,7 +481,8 @@
     "price": "₹1886",
     "title": "Bluetooth(Buoyant Black, On the Ear)",
     "category": "electronic",
-    "amount": "1886"
+    "amount": "1886",
+    "quantity": "1"
   },
   {
     "id": "49",
@@ -443,7 +491,8 @@
     "price": "₹786",
     "title": "Wired without Mic Headset  (White, On the Ear)",
     "category": "electronic",
-    "amount": "786"
+    "amount": "786",
+    "quantity": "1"
   },
   {
     "id": "50",
@@ -452,7 +501,8 @@
     "price": "₹1,099",
     "title": "120 16 W Bluetooth Laptop/Desktop Speaker",
     "category": "electronic",
-    "amount": "1099"
+    "amount": "1099",
+    "quantity": "1"
   },
   {
     "id": "60",
@@ -462,7 +512,8 @@
     "price": "₹999",
     "title": "Polyester Adults Washable Foldable",
     "category": "home",
-    "amount": "999"
+    "amount": "999",
+    "quantity": "1"
   },
   {
     "id": "61",
@@ -471,7 +522,8 @@
     "price": "₹299",
     "title": "144 TC Microfiber Double 3D Printed Flat Bedsheet",
     "category": "home",
-    "amount": "299"
+    "amount": "299",
+    "quantity": "1"
   },
   {
     "id": "62",
@@ -480,7 +532,8 @@
     "price": "₹379",
     "title": "1KB ENTERPRISES Refrigerator Cover",
     "category": "home",
-    "amount": "379"
+    "amount": "379",
+    "quantity": "1"
   },
   {
     "id": "63",
@@ -489,7 +542,8 @@
     "price": "₹199",
     "title": " Cushions & Pillows Cover",
     "category": "home",
-    "amount": "199"
+    "amount": "199",
+    "quantity": "1"
   },
   {
     "id": "64",
@@ -498,7 +552,8 @@
     "price": "₹109",
     "title": "Free Size  (Black, Pack of 2)",
     "category": "home",
-    "amount": "109"
+    "amount": "109",
+    "quantity": "1"
   },
   {
     "id": "65",
@@ -507,7 +562,8 @@
     "price": "₹213",
     "title": "Floral Bolsters Cover",
     "category": "home",
-    "amount": "213"
+    "amount": "213",
+    "quantity": "1"
   },
   {
     "id": "66",
@@ -516,7 +572,8 @@
     "price": "₹1,199",
     "title": "120 TC Microfiber Double Printed Flat Bedsheet",
     "category": "home",
-    "amount": "1119"
+    "amount": "1119",
+    "quantity": "1"
   },
   {
     "id": "67",
@@ -525,7 +582,8 @@
     "price": "₹213",
     "title": "75 GSM Hand, Face, Sport, Beach Towel",
     "category": "home",
-    "amount": "213"
+    "amount": "213",
+    "quantity": "1"
   },
   {
     "id": "68",
@@ -534,7 +592,8 @@
     "price": "₹629",
     "title": "Hub 213.5 cm (7 ft) Polyester Door Curtain",
     "category": "home",
-    "amount": "629"
+    "amount": "629",
+    "quantity": "1"
   },
   {
     "id": "69",
@@ -544,7 +603,8 @@
     "price": "₹51,234",
     "title": "LED Smart WebOS TV 2022",
     "category": "appliances",
-    "amount": "51234"
+    "amount": "51234",
+    "quantity": "1"
   },
   {
     "id": "70",
@@ -553,7 +613,8 @@
     "price": "₹31,229",
     "title": "3 Star Split Inverter AC - White",
     "category": "appliances",
-    "amount": "31229"
+    "amount": "31229",
+    "quantity": "1"
   },
   {
     "id": "71",
@@ -562,7 +623,8 @@
     "price": "₹3,870",
     "title": "TH800MX3 _ thunderbolt 800 W Mixer Grinder",
     "category": "appliances",
-    "amount": "3870"
+    "amount": "3870",
+    "quantity": "1"
   },
   {
     "id": "72",
@@ -571,7 +633,8 @@
     "price": "₹2,329",
     "title": "HD2583/90",
     "category": "appliances",
-    "amount": "2329"
+    "amount": "2329",
+    "quantity": "1"
   },
   {
     "id": "73",
@@ -580,7 +643,8 @@
     "price": "₹629",
     "title": "800W Power Mixer with Mixing Attachments",
     "category": "appliances",
-    "amount": "629"
+    "amount": "629",
+    "quantity": "1"
   },
   {
     "id": "74",
@@ -589,7 +653,8 @@
     "price": "₹1,629",
     "title": "Philips GC1905 Steam Iron",
     "category": "appliances",
-    "amount": "1629"
+    "amount": "1629",
+    "quantity": "1"
   },
   {
     "id": "75",
@@ -598,7 +663,8 @@
     "price": "₹1,399",
     "title": "Crest Neo 1200 mm 3 Blade Ceiling Fan",
     "category": "appliances",
-    "amount": "1399"
+    "amount": "1399",
+    "quantity": "1"
   },
   {
     "id": "76",
@@ -607,7 +673,8 @@
     "price": "₹1,629",
     "title": "L Frost Free Double Door 2 Star Convertible",
     "category": "appliances",
-    "amount": "1629"
+    "amount": "1629",
+    "quantity": "1"
   },
   {
     "id": "77",
@@ -616,7 +683,8 @@
     "price": "₹14,429",
     "title": "6.5 kg Fully Automatic Top Load Silver",
     "category": "appliances",
-    "amount": "14429"
+    "amount": "14429",
+    "quantity": "1"
   },
   {
     "id": "78",
@@ -626,7 +694,8 @@
     "price": "₹629",
     "title": "TRESemme Keratin Smooth Shampoo",
     "category": "beauty",
-    "amount": "629"
+    "amount": "629",
+    "quantity": "1"
   },
   {
     "id": "79",
@@ -635,7 +704,8 @@
     "price": "₹329",
     "title": "HydraGel Indian Sunscreen SPF 50",
     "category": "beauty",
-    "amount": "329"
+    "amount": "329",
+    "quantity": "1"
   },
   {
     "id": "80",
@@ -644,7 +714,8 @@
     "price": "₹210",
     "title": "LIFEBUOY Total 10  (7 x 125 g)",
     "category": "beauty",
-    "amount": "210"
+    "amount": "210",
+    "quantity": "1"
   },
   {
     "id": "81",
@@ -653,7 +724,8 @@
     "price": "₹629",
     "title": "Vaseline Intensive Care Deep Moisture Body ",
     "category": "beauty",
-    "amount": "629"
+    "amount": "629",
+    "quantity": "1"
   },
   {
     "id": "82",
@@ -662,7 +734,8 @@
     "price": "₹198",
     "title": "Anti-Pollution for Deep Pore Cleaning",
     "category": "beauty",
-    "amount": "198"
+    "amount": "198",
+    "quantity": "1"
   },
   {
     "id": "83",
@@ -671,7 +744,8 @@
     "price": "₹127",
     "title": "Lakmé Insta Eye Liner 9 ml",
     "category": "beauty",
-    "amount": "127"
+    "amount": "127",
+    "quantity": "1"
   },
   {
     "id": "84",
@@ -680,7 +754,8 @@
     "price": "₹129",
     "title": "GLAM Body Parfum with Premium & Long Lasting",
     "category": "beauty",
-    "amount": "129"
+    "amount": "129",
+    "quantity": "1"
   },
   {
     "id": "85",
@@ -689,7 +764,8 @@
     "price": "₹279",
     "title": "Lakmé Absolute Perfect Radiance Skin",
     "category": "beauty",
-    "amount": "279"
+    "amount": "279",
+    "quantity": "1"
   },
   {
     "id": "86",
@@ -698,7 +774,8 @@
     "price": "₹629",
     "title": "Moisturizing Cream for all skin types",
     "category": "beauty",
-    "amount": "629"
+    "amount": "629",
+    "quantity": "1"
   },
   {
     "id": "87",
@@ -708,7 +785,8 @@
     "price": "₹77,248",
     "title": "EX Graphite Black Booking for Ex-showroom Price",
     "category": "2wheelers",
-    "amount": "77248"
+    "amount": "77248",
+    "quantity": "1"
   },
   {
     "id": "88",
@@ -717,7 +795,8 @@
     "price": "₹70,248",
     "title": "E1 Comet Gray Booking for Ex-showroom Price",
     "category": "2wheelers",
-    "amount": "70248"
+    "amount": "70248",
+    "quantity": "1"
   },
   {
     "id": "89",
@@ -726,7 +805,8 @@
     "price": "₹77,248",
     "title": "E1 Pearl White Booking for Ex-showroom Price",
     "category": "2wheelers",
-    "amount": "77248"
+    "amount": "77248",
+    "quantity": "1"
   },
   {
     "id": "90",
@@ -735,7 +815,8 @@
     "price": "₹77,248",
     "title": "EX Metallic Red Booking for Ex-showroom Price",
     "category": "2wheelers",
-    "amount": "77248"
+    "amount": "77248",
+    "quantity": "1"
   },
   {
     "id": "91",
@@ -744,7 +825,8 @@
     "price": "₹70,248",
     "title": "Desat Silver Booking for Ex-showroom Price ",
     "category": "2wheelers",
-    "amount": "702248"
+    "amount": "702248",
+    "quantity": "1"
   },
   {
     "id": "92",
@@ -753,6 +835,7 @@
     "price": "₹79,248",
     "title": "Sporty Red Booking for Ex-showroom Price",
     "category": "2wheelers",
-    "amount": "79248"
+    "amount": "79248",
+    "quantity": "1"
   }
 ]
